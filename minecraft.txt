@@ -1,0 +1,3 @@
+1831 65 233 house                                  minecraft
+239 49 33 nether portal
+330 58 -1126  End gateway
